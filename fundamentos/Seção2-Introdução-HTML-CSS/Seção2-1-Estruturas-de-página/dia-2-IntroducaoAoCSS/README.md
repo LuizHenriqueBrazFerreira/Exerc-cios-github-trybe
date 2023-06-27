@@ -1,0 +1,1 @@
+# Diretório de exercícios para o dia 2 do módulo de fundamentos

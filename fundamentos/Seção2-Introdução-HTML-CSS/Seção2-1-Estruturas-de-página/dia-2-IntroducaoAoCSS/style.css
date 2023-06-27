@@ -1,0 +1,15 @@
+
+.cor-de-fundo{
+    background-color: aquamarine;
+}
+#style_div{
+    font-style: italic;
+}
+#text{
+    text-decoration-line: underline;
+}
+#style_text{
+    text-align: left;
+    font-size: 14px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

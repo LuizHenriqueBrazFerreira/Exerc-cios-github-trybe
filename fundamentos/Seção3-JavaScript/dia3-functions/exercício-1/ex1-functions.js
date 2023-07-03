@@ -1,15 +1,15 @@
 const balance = 200;
 function addBalance (value){
-  return balance + value;
+  return addBalance = balance + value;
 };
 function subBalance(value){
-  return balance - value;
+  return subBalance = balance - value;
 };
 function  multBalance(value){
-  return balance * value;
+  return multBalance = balance * value;
 };
 function divBalance(value){
-  return balance / value;
+  return divBalance = balance / value;
 };
 
 

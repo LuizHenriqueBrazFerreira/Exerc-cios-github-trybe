@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header h5 {
+  border: 1px solid black;
+  border-radius: 70px;
+  padding: 5px;
+  width: 4%;
+  text-align: center;
+  margin-top: 6px;
+  font-weight: 800;
+  background-color: aquamarine;
+  float: right;
+  margin-right: 5px;
+}
+
+body {
+  background-color: #eee;
+}
+
+main {
+  margin-left: 1%;
+}
+
+#email {
+  display: inline-block;
+}
+
+#password {
+  display: inline-block;
+}
+
+button {
+  display: block;
+}
+
+#check {
+  display: inline-block;
+}

@@ -1,0 +1,8 @@
+body {
+  margin-left: 1%;
+}
+
+textarea {
+  resize: none;
+  width: 30%;
+}
